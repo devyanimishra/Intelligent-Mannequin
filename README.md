@@ -4,3 +4,4 @@ This project uses Haar Cascade and OpenCV to detect a face in a live user feed a
 
 It also sends an email to the user based on the most recent feedback entry into the database.
 
+A visual bar graph is also created using matplotlib to display the demand of the various items in the database according to user input.
